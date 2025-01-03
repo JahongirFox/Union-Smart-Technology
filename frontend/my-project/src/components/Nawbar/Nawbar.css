@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Nawbar {
+    width: 100%;
+    height: 130px;
+    background-color: black;
+}
+.Nawbar-link{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1200px;
+}
+.Link-color{
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Link-color2{
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Flex-nawbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 20px;
+}

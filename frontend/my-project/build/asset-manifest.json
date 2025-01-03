@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23030abb.css",
+    "main.js": "/static/js/main.6c30492b.js",
+    "static/media/back.png": "/static/media/back.69166e26301cec5520fe.png",
+    "static/media/C1.png": "/static/media/C1.2eb81440b2bee9be388c.png",
+    "static/media/we.png": "/static/media/we.2a01d5266887522014bb.png",
+    "static/media/bg.png": "/static/media/bg.40cd88e68e7179770795.png",
+    "static/media/home2.png": "/static/media/home2.5923adf3469b223e81c0.png",
+    "static/media/M1.png": "/static/media/M1.e6284b68a395ea9b4e5a.png",
+    "static/media/img2.png": "/static/media/img2.f79e3e0e9f0ae5b74e5e.png",
+    "static/media/img1.png": "/static/media/img1.0270e26296f09aa8420c.png",
+    "static/media/pic1.png": "/static/media/pic1.2553bac1f2d57b9b3ec9.png",
+    "static/media/M3.png": "/static/media/M3.9fcf58acea803f4550d9.png",
+    "static/media/pic7.png": "/static/media/pic7.beb37fb41d3c64c7933a.png",
+    "static/media/pic5.png": "/static/media/pic5.8453e9fd0d133d38b175.png",
+    "static/media/M2.png": "/static/media/M2.03a6ebc761dba006dd77.png",
+    "static/media/pic4.png": "/static/media/pic4.041f50ca3d0debb6eb92.png",
+    "static/media/pic3.png": "/static/media/pic3.f334e6cf790fa68c4533.png",
+    "static/media/pic8.png": "/static/media/pic8.3b776572929ec1744881.png",
+    "static/media/pic6.png": "/static/media/pic6.e8343c19cb86870997c5.png",
+    "static/media/pic2.png": "/static/media/pic2.db19a86386ff1f4d5fce.png",
+    "static/media/servis.png": "/static/media/servis.f24e403c53a0c2315ec3.png",
+    "static/media/group4.png": "/static/media/group4.ac9f6097d95a6a72b067.png",
+    "static/media/group3.png": "/static/media/group3.65229970bc6f53064900.png",
+    "static/media/group1.png": "/static/media/group1.0f184114b964ab63eda3.png",
+    "static/media/group6.png": "/static/media/group6.9ef8a6e061303f25037c.png",
+    "static/media/group5.png": "/static/media/group5.7fb7535f3d0e566d69f4.png",
+    "static/media/group2.png": "/static/media/group2.8d932acd3ba5d370e21e.png",
+    "static/media/logo.png": "/static/media/logo.bcba96d2d53a6150a0d3.png",
+    "index.html": "/index.html",
+    "main.23030abb.css.map": "/static/css/main.23030abb.css.map",
+    "main.6c30492b.js.map": "/static/js/main.6c30492b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23030abb.css",
+    "static/js/main.6c30492b.js"
+  ]
+}

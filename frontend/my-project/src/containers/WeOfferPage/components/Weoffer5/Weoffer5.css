@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.Weoffer5{
+    background-color: #E6E8EF;
+    width: 100%;
+    height: 190vh;
+}
+.Weoffer5>h1{
+    color: #03115F;
+    font-size: 60px;
+    font-weight: 700;
+    margin-left: 7%;
+    padding-top: 5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.flex-group-fles{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 120px;
+}
+.flex-group-fles>img:hover{
+    box-shadow: -3px -0px 70px #03115F;
+ 
+}
+.flex-group-fles>img{
+    transition: 1s ease;
+    }
+    
+    .flex-group-fles>img:hover{
+        -webkit-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        transform: scale(1.2);
+        transition: 1s ease;
+    }
+
+.back-img-size>img{
+    padding-top: 10%;
+    width: 100%;
+
+}

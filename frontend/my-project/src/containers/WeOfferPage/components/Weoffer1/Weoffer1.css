@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.Weoffer1{
+    width: 100%;
+    height: 66vh;
+    background-image: url(./we.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.Weoffer1>p{
+    color: white;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    padding-top: 50px;
+    margin-left: 6%;
+}
+.Weoffer1>h1{
+    color: white;
+    font-size: 85px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    margin-left: 6%;
+}
+.Weoffer1>h5{
+    color: #DDDDE2;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 350;
+    margin-top: 25px;
+    margin-left: 6%;
+}
+.We-btn{
+    width: 300px;
+    color: white;
+    padding-top: 6px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #1E74EC;
+    border: 1px solid #1E74EC;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-left: 6%;
+}
